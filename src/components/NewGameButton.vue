@@ -23,7 +23,7 @@ export default {
   <center>
       <h1>Welcome to Memory-Card Game</h1>
   </center>
-  <br><br>
+  <br>
   <button v-if="newPlayer" @click="startNewGame" :class="$style.button">Start Game</button>
   <button v-else @click="startNewGame" :class="$style.button">Restart Game</button>
   <br>
