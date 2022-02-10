@@ -19,7 +19,7 @@ export default {
 </script>
 
 <template>
-  <br><br><br>
+  <br>
   <center>
       <h1>Welcome to Memory-Card Game</h1>
   </center>
