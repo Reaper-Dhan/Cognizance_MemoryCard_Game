@@ -23,7 +23,6 @@ export default {
   <center>
       <h1>Welcome to Memory-Card Game</h1>
   </center>
-  <br>
   <button v-if="newPlayer" @click="startNewGame" :class="$style.button">Start Game</button>
   <button v-else @click="startNewGame" :class="$style.button">Restart Game</button>
   <br>
@@ -33,7 +32,7 @@ export default {
 h1 {
   font-family: 'Permanent Marker', cursive;
   color:rgb(0, 0, 0); width: 400px;
-  font-size: 40px;
+  font-size: 30px;
 }
 .button {
   background-color: #fffb00;
