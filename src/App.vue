@@ -112,7 +112,7 @@ background: -moz-linear-gradient(90deg, rgba(252,198,122,1) 0%, rgba(218,65,103,
 background: -webkit-linear-gradient(90deg, rgba(252,198,122,1) 0%, rgba(218,65,103,1) 25%, rgba(252,198,122,1) 75%, rgba(218,65,103,1) 100%);
 background: linear-gradient(90deg, rgba(252,198,122,1) 0%, rgba(218,65,103,1) 25%, rgba(252,198,122,1) 75%, rgba(218,65,103,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fcc67a",endColorstr="#da4167",GradientType=1);
-background: url('https://www.pinpng.com/pngs/m/27-273578_free-png-download-star-sparkle-png-images-background.png')
+background: url('https://www.pinpng.com/pngs/m/35-353563_glitter-png-transparent-transparent-background-sparkles-transparent-png.png')
 }
 h1 {
   margin-top: 0;
